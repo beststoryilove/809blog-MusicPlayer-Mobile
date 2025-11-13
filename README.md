@@ -3,6 +3,9 @@
                                                            注意！！！
                                                       该版本为移动端特供!!!
                                           桌面端用户请使用musicplayer.809blog.dpdns.org!!!
+2025-11-13正式废弃809blog-Musicplayer及其附属项目，请移步至HarmoniaMusicplayer
+![Harmonia](https://github.com/beststoryilove/Harmonia-MusicPlayer)
+
 
 一个业余项目，使用deepseek-v3生成
 
